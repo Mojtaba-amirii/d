@@ -1,6 +1,6 @@
 // fetch
 const getInfo = async () => {
-  const request = new Request("/cv.json");
+  const request = new Request("cv.json");
   //fetch() starts a request and returns a promise. When the request completes, the promise is resolved with the Response object.
   //If the request fails due to some network problems, the promise is rejected.
 
