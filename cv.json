@@ -1,0 +1,43 @@
+{
+  "employment": [
+    {
+      "time": "2022-pågående",
+      "jobTitle": "Sales assistant",
+      "location": "Stockholm",
+      "text": "Jag planerar den kommersiella verksamheten i linje med Decathlons koncept. På Decathlon jobbar jag aktivt med försäljning samt att serva kunden med teknis information om produkterna och dess användning. Dessutom innefattashantering av lager och utbud för verksamheten som sker dagligen."
+    },
+    {
+      "time": "2020-2021",
+      "jobTitle": "Sales assistant",
+      "location": "Stockholm",
+      "text": "Jag var säljare i butiken och genom det fick jag massor av erfarenhet och bra säljkunskap. Jag praktiserade på att hjälpa kunder som personnal-shopper och merförsäljning. "
+    },
+    {
+      "time": "2020-2020",
+      "jobTitle": "Sales assistant",
+      "location": "Stockholm",
+      "text": "Som sales assistant på Superdry jobbbade jag mycket kundorienterat och med fokus på att slutföra säljprocessen från första kontakt till avslut i kassan. Här blev jag skarp som säljare. Dessutom fick jag utmana mig i en engelsktalande miljö. Många i personalen var britter och Superdry har ett internationellt klientel."
+    },
+    {
+      "time": "2019-2020",
+      "jobTitle": "Sales assistant",
+      "location": "Stockholm",
+      "text": "Jag var säljare i butiken och genom det fick jag massor av erfarenhet och bra säljkunskap. Jag praktiserade på att hjälpa kunder som personnal-shopper och merförsäljning. "
+    }
+  ],
+  "education": [
+    "2022-pågående - FRONTENDUTVECKLARE FÖR MOBIL OCH WEBB",
+    "2021-2021 - Nationalekonomi A",
+    "2017-2020 - Handels- och Administrationsprogrammet"
+  ],
+  "internships": [
+    {
+      "companyName": "Intersport ",
+      "text": "Under min praktikperiod fick jag ta del av alla moment i butiken. Jag blev bättre på kundrelation och förberedd till att vara en framgångsrik säljare "
+    },
+    {
+      "companyName": "SneakerArmour",
+      "text": "Jag skötte ekonomin och beräkningar samt skrev företagets affärsplan"
+    }
+  ]
+}
