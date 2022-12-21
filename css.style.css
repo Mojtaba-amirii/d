@@ -1,0 +1,84 @@
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 2fr 3fr 2fr 1fr 1fr 1fr;
+  gap: 10px;
+  margin: auto 20% auto 20%;
+}
+.profile {
+  grid-row: 1 / 2;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 140px;
+  height: 140px;
+}
+h1 {
+  margin-top: 0;
+}
+
+.jobs {
+  grid-row: 2 / 3;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  line-height: 25px;
+}
+
+.educations {
+  grid-row: 3 / 4;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  line-height: 25px;
+}
+
+.langueges {
+  grid-row: 4 / 5;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  line-height: 25px;
+}
+
+.other {
+  grid-row: 5 / 6;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  line-height: 25px;
+}
+
+.references {
+  grid-row: 6 / 7;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  line-height: 25px;
+}
